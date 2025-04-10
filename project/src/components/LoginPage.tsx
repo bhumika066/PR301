@@ -94,8 +94,8 @@ export default function LoginPage({ onLogin }: LoginPageProps) {
           <h1 className="text-4xl font-bold text-white mb-4">IIITDMJ ChatBot</h1>
           <p className="text-gray-300">An advanced virtual assistant</p>
           <div className="mt-4 flex justify-center gap-2">
-            <span className="px-3 py-1 bg-gray-800 text-white rounded-full text-sm">OpenAI</span>
-            <span className="px-3 py-1 bg-[#E91E63] text-white rounded-full text-sm">TensorFlow</span>
+            <span className="px-3 py-1 bg-[#E91E63] text-white rounded-full text-sm">Any confusion , try this bot</span>
+            
           </div>
         </div>
       </div>
